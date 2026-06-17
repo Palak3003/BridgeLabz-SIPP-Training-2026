@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class QuotientRemainder {
+public class QuotientRemainder1 {
 
     public static int[] findRemainderAndQuotient(
             int number,

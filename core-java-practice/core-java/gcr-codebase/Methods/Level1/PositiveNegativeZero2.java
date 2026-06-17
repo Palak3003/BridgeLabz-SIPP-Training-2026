@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PositiveNegativeZero {
+public class PositiveNegativeZero2 {
 
     public static int checkNumber(
             int number) {

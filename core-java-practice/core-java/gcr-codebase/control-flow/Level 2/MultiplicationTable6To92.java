@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultiplicationTable6To9 {
+public class MultiplicationTable6To92 {
 
     public static void main(String[] args) {
 

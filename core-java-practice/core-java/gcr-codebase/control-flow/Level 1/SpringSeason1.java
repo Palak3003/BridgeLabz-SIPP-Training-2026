@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SpringSeason {
+public class SpringSeason1 {
 
     public static void main(String[] args) {
 

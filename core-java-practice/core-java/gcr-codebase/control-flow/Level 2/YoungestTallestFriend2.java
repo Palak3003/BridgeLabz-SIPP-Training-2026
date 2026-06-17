@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class YoungestTallestFriend {
+public class YoungestTallestFriend2 {
 
     public static void main(String[] args) {
 

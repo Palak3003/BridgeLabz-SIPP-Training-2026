@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberChecker4 {
+public class NumberChecker5 {
 
     public static boolean isPrime(
             int number) {

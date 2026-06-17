@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class VotingEligibility {
+public class VotingEligibility1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BMICalculator {
+public class BMICalculator3 {
 
     public static void main(String[] args) {
 
