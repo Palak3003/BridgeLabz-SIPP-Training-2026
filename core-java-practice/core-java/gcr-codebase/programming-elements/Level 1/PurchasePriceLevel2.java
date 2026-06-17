@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PurchasePrice {
+public class PurchasePriceLevel2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
