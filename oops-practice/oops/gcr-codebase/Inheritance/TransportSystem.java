@@ -2,20 +2,20 @@ interface FuelSupport {
     void refuel();
 }
 
-class BaseVehicle {
+class BaseVehiclee {
 
     int maxSpeed;
     String model;
 
-    BaseVehicle(int maxSpeed, String model) {
+    BaseVehiclee(int maxSpeed, String model) {
         this.maxSpeed = maxSpeed;
         this.model = model;
     }
 }
 
-class ElectricCar extends BaseVehicle {
+class ElectricCarr extends BaseVehiclee {
 
-    ElectricCar(int maxSpeed, String model) {
+    ElectricCarr(int maxSpeed, String model) {
         super(maxSpeed, model);
     }
 
@@ -24,7 +24,7 @@ class ElectricCar extends BaseVehicle {
     }
 }
 
-class PetrolCar extends BaseVehicle implements FuelSupport {
+class PetrolCar extends BaseVehiclee implements FuelSupport {
 
     PetrolCar(int maxSpeed, String model) {
         super(maxSpeed, model);
@@ -40,7 +40,7 @@ public class TransportSystem {
 
     public static void main(String[] args) {
 
-        ElectricCar ev = new ElectricCar(180, "Tesla");
+        ElectricCarr ev = new ElectricCarr(180, "Tesla");
 
         PetrolCar pv = new PetrolCar(220, "Honda City");
 
