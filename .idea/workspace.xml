@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26e5ff84-4c71-43d5-95da-017cef6e2501" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3Ew9Pk2vtSrNBknw3O6gricAtq9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ATMWithdrawalSystem.executor": "Run",
+    "Application.AddressBookApp.executor": "Run",
+    "Application.BMI.executor": "Run",
+    "Application.BMICalculator3.executor": "Run",
+    "Application.BankAccountDemo.executor": "Run",
+    "Application.BankingSystem.executor": "Run",
+    "Application.Calculator1.executor": "Run",
+    "Application.ChargingStationDemo.executor": "Run",
+    "Application.ChocolateDistribution.executor": "Run",
+    "Application.DistanceConverterLevel2.executor": "Run",
+    "Application.DivisibleBy5.executor": "Run",
+    "Application.DroneDeliveryDemo.executor": "Run",
+    "Application.EmployeBonus.executor": "Run",
+    "Application.EmployeeBonus.executor": "Run",
+    "Application.HospitalBilling.executor": "Run",
+    "Application.HospitalBillingSystem.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MathWizard.executor": "Run",
+    "Application.MultiplicationTable6To92.executor": "Run",
+    "Application.MultiplicationTable6To9Array.executor": "Run",
+    "Application.NumberCheck.executor": "Run",
+    "Application.NumberChecker5.executor": "Run",
+    "Application.OddEvenNumbers2.executor": "Run",
+    "Application.OnlineCouponValidator.executor": "Run",
+    "Application.PositiveNegativeZero1.executor": "Run",
+    "Application.PositiveNegativeZero2.executor": "Run",
+    "Application.PurchasePriceLevel2.executor": "Run",
+    "Application.QuotientRemainder1.executor": "Run",
+    "Application.RestaurantDemo.executor": "Run",
+    "Application.SchoolResult.executor": "Run",
+    "Application.ShapeDemo.executor": "Run",
+    "Application.ShapeHierarchy.executor": "Run",
+    "Application.SmartParkingDemo.executor": "Run",
+    "Application.SpringSeason1.executor": "Run",
+    "Application.SquareSide1.executor": "Run",
+    "Application.StudentGradeManager.executor": "Run",
+    "Application.TemplePuzzle.executor": "Run",
+    "Application.TransportSystem.executor": "Run",
+    "Application.TriangleArea1.executor": "Run",
+    "Application.UniversityDemo.executor": "Run",
+    "Application.VehicleDemo.executor": "Run",
+    "Application.VotingEligibility.executor": "Run",
+    "Application.VotingEligibility1.executor": "Run",
+    "Application.WarehouseManagement.executor": "Run",
+    "Application.YoungestTallestFriend2.executor": "Run",
+    "Application.main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dsa-practice",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/bhard/OneDrive/Desktop/Bridgelabz-SIPP-Training-2026/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AddressBookApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddressBookApp" />
+      <module name="Bridgelabz-SIPP-Training-2026" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankAccountDemo" />
+      <module name="Bridgelabz-SIPP-Training-2026" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Bridgelabz-SIPP-Training-2026" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineCouponValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlineCouponValidator" />
+      <module name="Bridgelabz-SIPP-Training-2026" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AddressBookApp" />
+      <item itemvalue="Application.BankAccountDemo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.OnlineCouponValidator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankAccountDemo" />
+        <item itemvalue="Application.AddressBookApp" />
+        <item itemvalue="Application.OnlineCouponValidator" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26e5ff84-4c71-43d5-95da-017cef6e2501" name="Changes" comment="" />
+      <created>1781078744437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781078744437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
